@@ -1,6 +1,6 @@
 {
   "name": "ngx-dropfiles",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ngx-dropfiles is an Angular 5 module for desktop drag’n’drop files",
   "main": "index.js",
   "scripts": {

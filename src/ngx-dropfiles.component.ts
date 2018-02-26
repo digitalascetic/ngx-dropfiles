@@ -126,7 +126,7 @@ export class NgxDropfilesComponent implements OnInit {
             return filesArray.filter(file => this._isValidFileType(file, this.acceptedFiles));
         }
 
-        return files;
+        return filesArray;
     }
 
     /**
