@@ -115,9 +115,7 @@ export class NgxDropfilesComponent implements OnInit {
 
     /**
      * If has acceptedFiles we only return files with accepted mimeType or file extension
-     * @param {File[]} files
-     * @returns {File[]}
-     * @private
+     *
      */
     private _processFileTypes(files: File[]): File[] {
         const filesArray = Array.from(files);
@@ -133,10 +131,6 @@ export class NgxDropfilesComponent implements OnInit {
      *  Check if match file with accepted mimeTypes or file extesions,
      *  also we store in array files with incorrect mimeTypes or file extesions
      *
-     * @param {File} file
-     * @param {string} acceptedFiles
-     * @returns {boolean}
-     * @private
      */
     private _isValidFileType(file: File, acceptedFiles: string): boolean {
 
