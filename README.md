@@ -1,10 +1,10 @@
-# ngx-dropfiles
-ngx-dropfiles is an Angular 5 module for desktop drag’n’drop files
+# @digitalascetic/ngx-dropfiles
+@digitalascetic/ngx-dropfiles is an Angular 5 module for desktop drag’n’drop files
 
 ## Install
-1. Add `ngx-dropfiles` module as dependency to your project.
+1. Add `@digitalascetic/ngx-dropfiles` module as dependency to your project.
 ```bash
-$ npm install ngx-dropfiles --save
+$ npm install @digitalascetic/ngx-dropfiles --save
 ```
 2. Include `NgxDropfilesModule` into your main AppModule or in module where you will use it.
 ```
