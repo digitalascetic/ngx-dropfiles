@@ -4,7 +4,7 @@ export default {
         file: 'dist/bundles/ngx-dropfiles.umd.js',
         format: 'umd'
     },
-    name: 'ngx-dropfiles',
+    name: 'ng.ngx-dropfiles',
     external: ['@angular/core'],
     globals: {
         '@angular/core': 'ng.core'

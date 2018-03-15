@@ -1,6 +1,6 @@
 {
   "name": "@digitalascetic/ngx-dropfiles",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ngx-dropfiles is an Angular 5 module for desktop drag’n’drop files",
   "license": "MIT",
   "main": "./bundles/ngx-dropfiles.umd.js",

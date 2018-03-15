@@ -22,7 +22,7 @@
     "annotateForClosureCompiler": true,
     "strictMetadataEmit": true,
     "skipTemplateCodeGen": true,
-    "flatModuleId": "ngx-dropfiles",
+    "flatModuleId": "@digitalascetic/ngx-dropfiles",
     "flatModuleOutFile": "ngx-dropfiles.js"
   }
 }
