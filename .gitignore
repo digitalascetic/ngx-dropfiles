@@ -45,3 +45,5 @@ Thumbs.db
 ngx-dropfiles.iml
 
 release.sh
+
+package-lock.json
