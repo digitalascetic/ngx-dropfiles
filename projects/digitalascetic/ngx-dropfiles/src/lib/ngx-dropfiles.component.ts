@@ -54,7 +54,7 @@ export class NgxDropfilesComponent implements OnInit {
     @Output() filesDroppped: EventEmitter<File[]> = new EventEmitter<File[]>();
     @Output() filesDroppedError: EventEmitter<NgxDropfilesError[]> = new EventEmitter<NgxDropfilesError[]>();
 
-    @ViewChild('inputFile') inputFile: ElementRef;
+    @ViewChild('inputFile', { static: true }) inputFile: ElementRef;
 
     onOver: boolean = false;
 

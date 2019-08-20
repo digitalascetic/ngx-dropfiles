@@ -1,5 +1,5 @@
 # @digitalascetic/ngx-dropfiles
-@digitalascetic/ngx-dropfiles is an Angular 6 module for desktop drag’n’drop files
+@digitalascetic/ngx-dropfiles is an Angular (LTS) module for desktop drag’n’drop files
 
 ## Important
 @digitalascetic/ngx-dropfiles Angular 5 compatibility is under version **1.0.4**  
