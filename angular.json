@@ -176,5 +176,5 @@
       }
     }
   },
-  "defaultProject": "ngx-dropfiles"
+  "defaultProject": "@digitalascetic/ngx-dropfiles"
 }
