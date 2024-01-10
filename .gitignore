@@ -48,3 +48,4 @@ release.sh
 
 package-lock.json
 browserslist
+.angular
